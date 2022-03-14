@@ -26,5 +26,11 @@ public void createcont3() {
 		System.out.println("contact3 is created");
 		
 	}
+	@Test
+public void createcont4() {
+		
+		System.out.println("contact4 is created");
+		
+	}
 	
 }
