@@ -19,4 +19,12 @@ public void createcont2() {
 		
 	}
 	
+	@Test
+	
+public void createcont3() {
+		
+		System.out.println("contact3 is created");
+		
+	}
+	
 }
